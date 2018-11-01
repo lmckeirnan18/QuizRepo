@@ -1,0 +1,17 @@
+import UIKit
+
+var str = "Hello, playground"
+
+// declare a string named "message" initialized to "Hello world!". Use type inference. 
+
+// explicitly declare a string named <name> and initialize it to your first name
+
+// use the addition assignment opperator to add your last name
+
+// explicitly declare an integer called <age> and initialize it to your age
+
+// print to the console your <message> variable
+
+// create a new string named <message2> and set it equal to "My name is *name* and I am <age> years old." using string interpolation
+
+// print to the console <message2>
